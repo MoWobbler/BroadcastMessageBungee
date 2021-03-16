@@ -1,0 +1,3 @@
+name: BroadcastCommandBungee
+main: net.simpvp.BroadcastMessageBungee.BroadcastMessageBungee
+author: Mo
